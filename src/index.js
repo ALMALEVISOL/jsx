@@ -1,9 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Ahkin from "ahkin";
+import { State } from "assignment--react-state-portfolio/build/static/js/main.8f513c90";
 
-import "./index.css";
-import registerServiceWorker from "./registerServiceWorker";
+console.log(State);
 
-ReactDOM.render(<Ahkin />, document.getElementById("root"));
-registerServiceWorker();
+ReactDOM.render(<State />, document.getElementById("root"));

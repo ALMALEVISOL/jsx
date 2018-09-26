@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "ahkin": "git+https://adelmoralm:Mx5bsZMUWqqzLgZmFFA6@bitbucket.org/hotwaresmartcloud/ahkin.git",
+    "assignment--react-state-portfolio": "git+https://github.com/ALMALEVISOL/assignment--react-state-portfolio.git",
     "react": "^16.4.2",
     "react-burger-menu": "^2.5.2",
     "react-dom": "^16.4.2",

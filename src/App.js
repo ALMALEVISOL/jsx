@@ -31,8 +31,6 @@ class App extends Component {
       <div className="App">
         <Title />
         <SubTitle />
-
-        <TodaysDate />
       </div>
     );
   }
